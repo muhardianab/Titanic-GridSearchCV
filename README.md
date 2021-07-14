@@ -13,7 +13,7 @@ Prediction of survivor using personal data of the passenger, here are the data/c
 9. Port of Embarkation
 10. Survival 
 
-The Model to predict the passenger who are survive and the passenger who are not survive
+The Models to predict the passengers who are survive and the passengers who are not survive
 1. Logistic Regression
 2. KNN or k-Nearest Neighbors
 3. Support Vector Machines
